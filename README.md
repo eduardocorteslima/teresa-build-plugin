@@ -30,7 +30,7 @@ mvn hdi:hdi
 
 For install the plugin follow this steps
 
-1 - In the Jenkins interface, navigate to Manage Jenkins → Manage Plugins.
-2 - Click the Advanced tab.
-3 - In the Upload Plugin section, click Choose File, and select teresa-build.hpi.
-4 - Click Upload. Jenkins displays a status screen that shows the plugin installing.
+1. In the Jenkins interface, navigate to Manage Jenkins → Manage Plugins.
+2. Click the Advanced tab.
+3. In the Upload Plugin section, click Choose File, and select teresa-build.hpi.
+4. Click Upload. Jenkins displays a status screen that shows the plugin installing.
